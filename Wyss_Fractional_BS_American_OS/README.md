@@ -9,3 +9,7 @@ In this file,
 FracAm_Put_OS.m is the main function solving American Put Option under Wyss Fractional BS formula with Operator Splitting method.
 
 Other .m files are used in the main function.
+
+Frac_OS_veri.m is used to calculate the order of accuracy. 
+
+alpha_wyss_euro.m is used to analyze the effect of alpha.
