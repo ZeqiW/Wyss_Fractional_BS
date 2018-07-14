@@ -12,4 +12,4 @@ Other .m files are used in the main function.
 
 Frac_veri.m is used to calculate the order of accuracy. 
 
-alpha_wyss_euro.m is used to analyze the effect of alpha
+alpha_wyss_euro.m is used to analyze the effect of alpha.
