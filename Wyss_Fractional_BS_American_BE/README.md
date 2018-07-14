@@ -9,4 +9,4 @@ FracAm_Put_Be.m is the main function solving American Put Option under Wyss Frac
 
 Other .m files are used in the main function.
 
-Frac_veri.m is used to calculate the order of accuracy.
+Frac_Be_veri.m is used to calculate the order of accuracy.
